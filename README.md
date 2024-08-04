@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/danielschez/danielschez/raw/main/github.png" alt="Mi Imagen" width="200"/>
+</p>
 
-<!--
-**danielschez/danielschez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola, soy Daniel Hernández 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/danielschez">
+    <img src="https://img.shields.io/badge/GitHub-GitHub-White?labelColor=gray&style=flat&logo=GitHub&logoColor=black" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-hernandez-sanchez/">
+    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-White?labelColor=blue&style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mí
+
+Desarrollador web apasionado y comprometido, con  7 años de experiencia en la construcción de soluciones robustas y escalables. Me destaco por mi responsabilidad, mi capacidad de aprendizaje autodidacta y mi gusto por los desafíos, siempre con el objetivo firme de seguir ampliando mis conocimientos. Tengo una destacada habilidad para adaptarme y colaborar en equipo, con iniciativa para abordar problemas y alcanzar metas establecidas. Dentro de mis principales distintivos es la adaptación y colaboración en equipo.
+
+- 📚 **Tecnologías y herramientas**: Django, Python, PHP, JavaScript, MySQL, MongoDB, Linux.
+- 🌟 **Intereses**: Accesibilidad web, rendimiento web.
+- 🌐 **Perfil**: [LinkedIn](https://www.linkedin.com/in/daniel-hernandez-sanchez/)
+- 📧 **Contacto**: [daniel_hernandezs@outlook.es](mailto:daniel_hernandezs@outlook.es)
+
+## Github Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielschez&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
