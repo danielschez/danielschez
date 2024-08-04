@@ -15,7 +15,7 @@
 
 ## Sobre Mí
 
-Desarrollador web apasionado y comprometido, con  7 años de experiencia en la construcción de soluciones robustas y escalables. Me destaco por mi responsabilidad, mi capacidad de aprendizaje autodidacta y mi gusto por los desafíos, siempre con el objetivo firme de seguir ampliando mis conocimientos. Tengo una destacada habilidad para adaptarme y colaborar en equipo, con iniciativa para abordar problemas y alcanzar metas establecidas. Dentro de mis principales distintivos es la adaptación y colaboración en equipo.
+Desarrollador web apasionado y comprometido, con  7 años de experiencia en la construcción de soluciones robustas y escalables. Me destaco por mi responsabilidad, capacidad de aprendizaje autodidacta y gusto por los desafíos, siempre con el objetivo firme de seguir ampliando mis conocimientos. Tengo una destacada habilidad para adaptarme y colaborar en equipo, con iniciativa para abordar problemas y alcanzar metas establecidas. Dentro de mis principales distintivos es la adaptación.
 
 - 📚 **Tecnologías y herramientas**: Django, Python, PHP, JavaScript, MySQL, MongoDB, Linux.
 - 🌟 **Intereses**: Accesibilidad web, rendimiento web.
